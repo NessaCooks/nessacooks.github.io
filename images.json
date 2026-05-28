@@ -1,5 +1,65 @@
 [
   {
+    "asset_id": "4f89abfd89f8892be0d97f4f4f73b2de",
+    "public_id": "signal-2026-05-28-193407_003_irurl7",
+    "format": "jpg",
+    "version": 1779995146,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-05-28T19:05:46Z",
+    "bytes": 134535,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-05-28-193407_003_irurl7",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1779995146/signal-2026-05-28-193407_003_irurl7.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1779995146/signal-2026-05-28-193407_003_irurl7.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-05-28T19:07:17+00:00",
+      "updated_at": "2026-05-28T19:07:17+00:00"
+    }
+  },
+  {
+    "asset_id": "df218e1b54a438f378d7950153570a3e",
+    "public_id": "signal-2026-05-28-193407_002_uanynh",
+    "format": "jpg",
+    "version": 1779995146,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-05-28T19:05:46Z",
+    "bytes": 186998,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-05-28-193407_002_uanynh",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1779995146/signal-2026-05-28-193407_002_uanynh.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1779995146/signal-2026-05-28-193407_002_uanynh.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-05-28T19:07:17+00:00",
+      "updated_at": "2026-05-28T19:07:17+00:00"
+    }
+  },
+  {
+    "asset_id": "cb33c6f0a2cc21913e138c8b546cdd02",
+    "public_id": "signal-2026-05-27-214607_002_s4mpmn",
+    "format": "jpg",
+    "version": 1779995146,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-05-28T19:05:46Z",
+    "bytes": 156402,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-05-27-214607_002_s4mpmn",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1779995146/signal-2026-05-27-214607_002_s4mpmn.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1779995146/signal-2026-05-27-214607_002_s4mpmn.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-05-28T19:07:17+00:00",
+      "updated_at": "2026-05-28T19:07:17+00:00"
+    }
+  },
+  {
     "asset_id": "b7b817a6436af84ff58d319e4eaed2b7",
     "public_id": "signal-2026-05-26-184655_adkmfb",
     "format": "jpg",
