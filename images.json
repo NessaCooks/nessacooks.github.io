@@ -1,5 +1,105 @@
 [
   {
+    "asset_id": "95ce529defb2e05c14d4a3a115699bab",
+    "public_id": "signal-2026-06-16-191233_002_zwxlyt",
+    "format": "jpg",
+    "version": 1781721838,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-06-17T18:43:58Z",
+    "bytes": 228864,
+    "width": 1600,
+    "height": 1200,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-06-16-191233_002_zwxlyt",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1781721838/signal-2026-06-16-191233_002_zwxlyt.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1781721838/signal-2026-06-16-191233_002_zwxlyt.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-06-17T18:44:12+00:00",
+      "updated_at": "2026-06-17T18:44:12+00:00"
+    }
+  },
+  {
+    "asset_id": "1f14b602995e95efe53568babe25f642",
+    "public_id": "signal-2026-06-12-194324_002_jh7q9n",
+    "format": "jpg",
+    "version": 1781721833,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-06-17T18:43:53Z",
+    "bytes": 169095,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-06-12-194324_002_jh7q9n",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1781721833/signal-2026-06-12-194324_002_jh7q9n.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1781721833/signal-2026-06-12-194324_002_jh7q9n.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-06-17T18:44:12+00:00",
+      "updated_at": "2026-06-17T18:44:12+00:00"
+    }
+  },
+  {
+    "asset_id": "1289cfe37e96a1ca25ea40e37ccba2a4",
+    "public_id": "signal-2026-06-12-160921_002_rzc5cw",
+    "format": "jpg",
+    "version": 1781721828,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-06-17T18:43:48Z",
+    "bytes": 119033,
+    "width": 1024,
+    "height": 1272,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-06-12-160921_002_rzc5cw",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1781721828/signal-2026-06-12-160921_002_rzc5cw.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1781721828/signal-2026-06-12-160921_002_rzc5cw.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-06-17T18:44:12+00:00",
+      "updated_at": "2026-06-17T18:44:12+00:00"
+    }
+  },
+  {
+    "asset_id": "7180cc531175211aa7f2e99e7133da08",
+    "public_id": "signal-2026-06-12-132252_002_q178q3",
+    "format": "jpg",
+    "version": 1781721822,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-06-17T18:43:42Z",
+    "bytes": 240569,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-06-12-132252_002_q178q3",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1781721822/signal-2026-06-12-132252_002_q178q3.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1781721822/signal-2026-06-12-132252_002_q178q3.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-06-17T18:44:12+00:00",
+      "updated_at": "2026-06-17T18:44:12+00:00"
+    }
+  },
+  {
+    "asset_id": "fdabf12d32ce6a3ceda44d6cae2b1a49",
+    "public_id": "signal-2026-06-10-192500_002_eiliba",
+    "format": "jpg",
+    "version": 1781721817,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-06-17T18:43:37Z",
+    "bytes": 201068,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-06-10-192500_002_eiliba",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1781721817/signal-2026-06-10-192500_002_eiliba.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1781721817/signal-2026-06-10-192500_002_eiliba.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-06-17T18:44:11+00:00",
+      "updated_at": "2026-06-17T18:44:11+00:00"
+    }
+  },
+  {
     "asset_id": "8af3722492917558954b9eee622b492f",
     "public_id": "signal-2026-06-06-185052_P_mgpqei",
     "format": "jpg",
