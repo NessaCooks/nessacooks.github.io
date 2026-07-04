@@ -1,5 +1,25 @@
 [
   {
+    "asset_id": "dd247cb24c850f7090a428faf6909143",
+    "public_id": "signal-2026-07-04-13-12-12-808_002_jzhtbs",
+    "format": "jpg",
+    "version": 1783167512,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-04T12:18:32Z",
+    "bytes": 269557,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-04-13-12-12-808_002_jzhtbs",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1783167512/signal-2026-07-04-13-12-12-808_002_jzhtbs.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1783167512/signal-2026-07-04-13-12-12-808_002_jzhtbs.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-04T12:19:03+00:00",
+      "updated_at": "2026-07-04T12:19:03+00:00"
+    }
+  },
+  {
     "asset_id": "ed0ed83be5d2dcae7d8f16505b530f57",
     "public_id": "signal-2026-07-03-20-23-43-067_002_zw4a7w",
     "format": "jpg",
