@@ -1,5 +1,165 @@
 [
   {
+    "asset_id": "92d0e317e34c789eb98f19952ed9e436",
+    "public_id": "signal-2026-07-28-21-01-04-280_002_il09we",
+    "format": "jpg",
+    "version": 1785357522,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-29T20:38:42Z",
+    "bytes": 331470,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-28-21-01-04-280_002_il09we",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1785357522/signal-2026-07-28-21-01-04-280_002_il09we.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1785357522/signal-2026-07-28-21-01-04-280_002_il09we.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-29T20:39:07+00:00",
+      "updated_at": "2026-07-29T20:39:07+00:00"
+    }
+  },
+  {
+    "asset_id": "0c782dde8bc6b0f91f99a88b22881f74",
+    "public_id": "signal-2026-07-28-21-00-44-144_002_npho7q",
+    "format": "jpg",
+    "version": 1785357512,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-29T20:38:32Z",
+    "bytes": 170784,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-28-21-00-44-144_002_npho7q",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1785357512/signal-2026-07-28-21-00-44-144_002_npho7q.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1785357512/signal-2026-07-28-21-00-44-144_002_npho7q.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-29T20:39:07+00:00",
+      "updated_at": "2026-07-29T20:39:07+00:00"
+    }
+  },
+  {
+    "asset_id": "57cc334dc69139d28adbbd5465ce0567",
+    "public_id": "signal-2026-07-28-19-31-12-439_002_bseknn",
+    "format": "jpg",
+    "version": 1785357505,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-29T20:38:25Z",
+    "bytes": 168073,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-28-19-31-12-439_002_bseknn",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1785357505/signal-2026-07-28-19-31-12-439_002_bseknn.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1785357505/signal-2026-07-28-19-31-12-439_002_bseknn.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-29T20:39:07+00:00",
+      "updated_at": "2026-07-29T20:39:07+00:00"
+    }
+  },
+  {
+    "asset_id": "0d4e0d0201680611cb2102357238ea55",
+    "public_id": "signal-2026-07-28-08-50-21-371_002_l5kdtl",
+    "format": "jpg",
+    "version": 1785357496,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-29T20:38:16Z",
+    "bytes": 156880,
+    "width": 1484,
+    "height": 1535,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-28-08-50-21-371_002_l5kdtl",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1785357496/signal-2026-07-28-08-50-21-371_002_l5kdtl.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1785357496/signal-2026-07-28-08-50-21-371_002_l5kdtl.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-29T20:39:07+00:00",
+      "updated_at": "2026-07-29T20:39:07+00:00"
+    }
+  },
+  {
+    "asset_id": "cf35eb61f8ae8abf6daf0e393296f605",
+    "public_id": "signal-2026-07-27-13-17-33-894_002_slppgn",
+    "format": "jpg",
+    "version": 1785357487,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-29T20:38:07Z",
+    "bytes": 177137,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-27-13-17-33-894_002_slppgn",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1785357487/signal-2026-07-27-13-17-33-894_002_slppgn.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1785357487/signal-2026-07-27-13-17-33-894_002_slppgn.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-29T20:39:07+00:00",
+      "updated_at": "2026-07-29T20:39:07+00:00"
+    }
+  },
+  {
+    "asset_id": "ab3269d1b684854adb12dbfc6ec0728d",
+    "public_id": "signal-2026-07-24-19-19-48-114_002_d313cf",
+    "format": "jpg",
+    "version": 1785357478,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-29T20:37:58Z",
+    "bytes": 198329,
+    "width": 1392,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-24-19-19-48-114_002_d313cf",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1785357478/signal-2026-07-24-19-19-48-114_002_d313cf.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1785357478/signal-2026-07-24-19-19-48-114_002_d313cf.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-29T20:39:07+00:00",
+      "updated_at": "2026-07-29T20:39:07+00:00"
+    }
+  },
+  {
+    "asset_id": "3e2a1163c8c26388da7990842a628f64",
+    "public_id": "signal-2026-07-22-18-48-22-857_002_j53ltt",
+    "format": "jpg",
+    "version": 1785357470,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-29T20:37:50Z",
+    "bytes": 228583,
+    "width": 1200,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-22-18-48-22-857_002_j53ltt",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1785357470/signal-2026-07-22-18-48-22-857_002_j53ltt.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1785357470/signal-2026-07-22-18-48-22-857_002_j53ltt.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-29T20:39:07+00:00",
+      "updated_at": "2026-07-29T20:39:07+00:00"
+    }
+  },
+  {
+    "asset_id": "3545468d3c4f0bcaa11e6e3b47199526",
+    "public_id": "signal-2026-07-21-18-53-31-026_002_iwtoln",
+    "format": "jpg",
+    "version": 1785357461,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-07-29T20:37:41Z",
+    "bytes": 141239,
+    "width": 1065,
+    "height": 1600,
+    "asset_folder": "gallery",
+    "display_name": "signal-2026-07-21-18-53-31-026_002_iwtoln",
+    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1785357461/signal-2026-07-21-18-53-31-026_002_iwtoln.jpg",
+    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1785357461/signal-2026-07-21-18-53-31-026_002_iwtoln.jpg",
+    "last_updated": {
+      "tags_updated_at": "2026-07-29T20:39:07+00:00",
+      "updated_at": "2026-07-29T20:39:07+00:00"
+    }
+  },
+  {
     "asset_id": "46124629dd694335de1931a15df5df19",
     "public_id": "signal-2026-07-20-19-22-17-427_002_wl2q7h",
     "format": "jpg",
@@ -1837,166 +1997,6 @@
     "last_updated": {
       "tags_updated_at": "2026-05-12T12:18:48+00:00",
       "updated_at": "2026-05-12T12:18:48+00:00"
-    }
-  },
-  {
-    "asset_id": "35f817542aa753f945af37cd66c1ca6d",
-    "public_id": "signal-2025-12-25-16-01-04-039_ovdhdb",
-    "format": "jpg",
-    "version": 1778538623,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-11T22:30:23Z",
-    "bytes": 305690,
-    "width": 1536,
-    "height": 1565,
-    "asset_folder": "",
-    "display_name": "signal-2025-12-25-16-01-04-039_ovdhdb",
-    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1778538623/signal-2025-12-25-16-01-04-039_ovdhdb.jpg",
-    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1778538623/signal-2025-12-25-16-01-04-039_ovdhdb.jpg",
-    "last_updated": {
-      "tags_updated_at": "2026-05-12T12:18:48+00:00",
-      "updated_at": "2026-05-12T12:18:48+00:00"
-    }
-  },
-  {
-    "asset_id": "1207828bdf88ebc245dfe6eda1b8d2ae",
-    "public_id": "signal-2025-12-20-23-10-46-820_wp5yn4",
-    "format": "jpg",
-    "version": 1778538621,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-11T22:30:21Z",
-    "bytes": 120473,
-    "width": 1600,
-    "height": 1200,
-    "asset_folder": "",
-    "display_name": "signal-2025-12-20-23-10-46-820_wp5yn4",
-    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1778538621/signal-2025-12-20-23-10-46-820_wp5yn4.jpg",
-    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1778538621/signal-2025-12-20-23-10-46-820_wp5yn4.jpg",
-    "last_updated": {
-      "tags_updated_at": "2026-05-12T12:18:48+00:00",
-      "updated_at": "2026-05-12T12:18:48+00:00"
-    }
-  },
-  {
-    "asset_id": "f2c4fd554137f752a2d5c16014872b7a",
-    "public_id": "IMG-20251206-WA0020_xisvus",
-    "format": "jpg",
-    "version": 1778538061,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-11T22:21:01Z",
-    "bytes": 354003,
-    "width": 1512,
-    "height": 2016,
-    "asset_folder": "gallery",
-    "display_name": "IMG-20251206-WA0020_xisvus",
-    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1778538061/IMG-20251206-WA0020_xisvus.jpg",
-    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1778538061/IMG-20251206-WA0020_xisvus.jpg",
-    "last_updated": {
-      "tags_updated_at": "2026-05-12T12:18:48+00:00",
-      "updated_at": "2026-05-12T12:18:48+00:00"
-    }
-  },
-  {
-    "asset_id": "4d36c4867cb3348fcd6af295fa92b610",
-    "public_id": "IMG-20251204-WA0018_r2tj4p",
-    "format": "jpg",
-    "version": 1778538059,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-11T22:20:59Z",
-    "bytes": 274762,
-    "width": 1512,
-    "height": 2016,
-    "asset_folder": "gallery",
-    "display_name": "IMG-20251204-WA0018_r2tj4p",
-    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1778538059/IMG-20251204-WA0018_r2tj4p.jpg",
-    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1778538059/IMG-20251204-WA0018_r2tj4p.jpg",
-    "last_updated": {
-      "tags_updated_at": "2026-05-12T12:18:48+00:00",
-      "updated_at": "2026-05-12T12:18:48+00:00"
-    }
-  },
-  {
-    "asset_id": "06259c633821087c5ddfd55d274419be",
-    "public_id": "IMG-20251204-WA0015_bg6kmb",
-    "format": "jpg",
-    "version": 1778538058,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-11T22:20:58Z",
-    "bytes": 515378,
-    "width": 1512,
-    "height": 2016,
-    "asset_folder": "gallery",
-    "display_name": "IMG-20251204-WA0015_bg6kmb",
-    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1778538058/IMG-20251204-WA0015_bg6kmb.jpg",
-    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1778538058/IMG-20251204-WA0015_bg6kmb.jpg",
-    "last_updated": {
-      "tags_updated_at": "2026-05-12T12:18:48+00:00",
-      "updated_at": "2026-05-12T12:18:48+00:00"
-    }
-  },
-  {
-    "asset_id": "5681095a205a097b0ce4b120675427ed",
-    "public_id": "IMG-20251116-WA0019_jim2pk",
-    "format": "jpg",
-    "version": 1778538058,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-11T22:20:58Z",
-    "bytes": 228639,
-    "width": 1512,
-    "height": 2016,
-    "asset_folder": "gallery",
-    "display_name": "IMG-20251116-WA0019_jim2pk",
-    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1778538058/IMG-20251116-WA0019_jim2pk.jpg",
-    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1778538058/IMG-20251116-WA0019_jim2pk.jpg",
-    "last_updated": {
-      "tags_updated_at": "2026-05-12T12:18:48+00:00",
-      "updated_at": "2026-05-12T12:18:48+00:00"
-    }
-  },
-  {
-    "asset_id": "90740453f1f3d7ed6ec83fff86b2a1b2",
-    "public_id": "signal-2025-12-19-13-13-42-139_derhhk",
-    "format": "jpg",
-    "version": 1778533404,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-11T21:03:24Z",
-    "bytes": 140928,
-    "width": 1200,
-    "height": 1600,
-    "asset_folder": "gallery",
-    "display_name": "signal-2025-12-19-13-13-42-139_derhhk",
-    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1778533404/signal-2025-12-19-13-13-42-139_derhhk.jpg",
-    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1778533404/signal-2025-12-19-13-13-42-139_derhhk.jpg",
-    "last_updated": {
-      "tags_updated_at": "2026-05-11T21:07:58+00:00",
-      "updated_at": "2026-05-11T21:07:58+00:00"
-    }
-  },
-  {
-    "asset_id": "55f3f98103799ba00bade20da2a57639",
-    "public_id": "signal-2025-12-14-19-22-29-913_hbnkhs",
-    "format": "jpg",
-    "version": 1778533404,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-11T21:03:24Z",
-    "bytes": 119301,
-    "width": 1200,
-    "height": 1600,
-    "asset_folder": "gallery",
-    "display_name": "signal-2025-12-14-19-22-29-913_hbnkhs",
-    "url": "http://res.cloudinary.com/dhguvzawz/image/upload/v1778533404/signal-2025-12-14-19-22-29-913_hbnkhs.jpg",
-    "secure_url": "https://res.cloudinary.com/dhguvzawz/image/upload/v1778533404/signal-2025-12-14-19-22-29-913_hbnkhs.jpg",
-    "last_updated": {
-      "tags_updated_at": "2026-05-11T21:07:58+00:00",
-      "updated_at": "2026-05-11T21:07:58+00:00"
     }
   }
 ]
